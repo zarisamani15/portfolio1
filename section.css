@@ -1,0 +1,75 @@
+section{
+    padding-top: 70px;
+}
+section>div:first-child{
+    background-color: white;
+    border-radius: 5%;
+    border: 1px solid black;
+    padding: 2px;
+    width: 400px;
+    height: 600px;
+}
+section>div>div{
+    width: 400px;
+    height: 533px;
+  background-color: #b8b8df;
+  border-radius: 5%;
+  border: 1px solid black;
+}
+section >div >p{
+    width: 300px;
+}
+section >div:first-child>a >button{
+    border-radius: 30%;
+    padding: 5px;
+    padding: 0px;
+    float: right;
+    margin: 10PX 10PX;
+}
+section >div:first-child>P{
+    text-align: left;
+    font-weight: bolder;
+    color: #000045;
+    display: inline;
+    margin: 0PX;
+    
+}
+section >div>a >button>img{
+    border-radius: 30%;
+    width: 30px;
+    height: 30px;
+}
+section>div>div>img{
+    width: 250PX;
+    height: 250px;
+    border-radius: 50%;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    margin: auto;
+    border: 1px solid black;
+}
+section>div>div>p:first-of-type{
+width: 150px;
+}
+section>div>div>p{
+    margin:auto;
+    text-align: center;
+    color: #000045;
+    font-weight:bolder;
+}
+section>div>div>hr{
+    width: 150px;
+    text-align: center;
+    border: 1px solid #000045;
+}
+section >div >div>a>button>img{
+    width: 15px;
+    height:15px ;
+    color: white;
+}
+section >div:last-child>a>button{
+    border-radius:30% ;
+    color:white;
+    background-color: #000045;
+}
